@@ -1,0 +1,35 @@
+
+{
+  "monthlyBorrows": [
+    { "month": "Jan", "count": 120 },
+    { "month": "Feb", "count": 150 },
+    { "month": "Mar", "count": 130 },
+    { "month": "Apr", "count": 180 },
+    { "month": "May", "count": 210 },
+    { "month": "Jun", "count": 190 }
+  ],
+  "memberGrowth": [
+    { "date": "2023-01", "count": 50 },
+    { "date": "2023-02", "count": 58 },
+    { "date": "2023-03", "count": 65 },
+    { "date": "2023-04", "count": 75 },
+    { "date": "2023-05", "count": 82 },
+    { "date": "2023-06", "count": 90 }
+  ],
+  "genreDistribution": [
+    { "genre": "Fiction", "count": 400 },
+    { "genre": "Dystopian", "count": 300 },
+    { "genre": "Fantasy", "count": 250 },
+    { "genre": "Romance", "count": 180 },
+    { "genre": "Adventure", "count": 150 },
+    { "genre": "Historical Fiction", "count": 100 }
+  ],
+  "stockByCategory": [
+    { "genre": "Fiction", "stock": 55 },
+    { "genre": "Dystopian", "stock": 32 },
+    { "genre": "Fantasy", "stock": 48 },
+    { "genre": "Romance", "stock": 41 },
+    { "genre": "Adventure", "stock": 25 },
+    { "genre": "Historical Fiction", "stock": 18 }
+  ]
+}

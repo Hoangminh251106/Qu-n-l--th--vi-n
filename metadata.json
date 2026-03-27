@@ -1,0 +1,4 @@
+{
+  "name": "Phần mềm quản lý thư viện",
+  "description": "Một hệ thống quản lý thư viện toàn diện được xây dựng bằng React, TypeScript và Tailwind CSS. Nó có các tính năng quản lý sách và thành viên, theo dõi mượn/trả sách và bảng điều khiển thống kê."
+}

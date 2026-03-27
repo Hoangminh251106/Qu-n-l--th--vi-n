@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "genre": "Fiction",
+    "stock": 10,
+    "borrowed": 3
+  },
+  {
+    "id": "2",
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "genre": "Dystopian",
+    "stock": 20,
+    "borrowed": 5
+  },
+  {
+    "id": "3",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "genre": "Fiction",
+    "stock": 8,
+    "borrowed": 1
+  },
+  {
+    "id": "4",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year": 1951,
+    "genre": "Fiction",
+    "stock": 4,
+    "borrowed": 1
+  },
+  {
+    "id": "5",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "genre": "Romance",
+    "stock": 10,
+    "borrowed": 4
+  },
+  {
+    "id": "6",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "year": 1937,
+    "genre": "Fantasy",
+    "stock": 12,
+    "borrowed": 5
+  },
+  {
+    "id": "7",
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "year": 1953,
+    "genre": "Dystopian",
+    "stock": 6,
+    "borrowed": 2
+  },
+  {
+    "id": "8",
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "year": 1851,
+    "genre": "Adventure",
+    "stock": 3,
+    "borrowed": 0
+  },
+  {
+    "id": "9",
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "year": 1869,
+    "genre": "Historical Fiction",
+    "stock": 2,
+    "borrowed": 1
+  },
+  {
+    "id": "10",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "year": 1932,
+    "genre": "Dystopian",
+    "stock": 5,
+    "borrowed": 3
+  },
+  {
+    "id": "11",
+    "title": "Dragon Balls",
+    "author": "Akira Toriyama",
+    "year": 1984,
+    "genre": "Fantasy",
+    "stock": 15,
+    "borrowed": 7
+  }
+]
